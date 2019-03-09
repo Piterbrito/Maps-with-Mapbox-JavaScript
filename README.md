@@ -16,6 +16,5 @@
 
 ![x](images/map9.png)
 
-![x](images/map10.png)
 
 ![x](images/map11.png)
